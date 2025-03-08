@@ -1,0 +1,39 @@
+<html>
+
+	<head>
+	  <title>PAGINA DI LUCA</title>
+	</head>
+
+	<body>
+		<hr>
+		<h1>La mia prima pagina HTML</h1>
+		<hr>
+		<hr>
+
+
+
+	<! –  PER TUTTI: INSERIRE QUESTE RIGHE –> 
+
+<div style="position: fixed; 
+            bottom: 0; 
+            width: 100%; 
+            text-align: center; 
+            background-color: blue; 
+            padding: 10px; 
+            color: yellow; 
+            font-weight: bold; 
+            font-size: 25px;">
+    <a href="PRINCIPALE.html" style="color: yellow; 
+			text-decoration: none;">
+        <span style="color: white; font-size: 15px; font-family: Arial, sans-serif; 
+                     display: inline-block; text-align: left; width: 300px;">
+            00 LUCA - Versione 1
+        </span> 
+        --- RITORNO ALLA PAGINA PRINCIPALE  -->
+    </a>
+</div>
+
+
+	</body>
+
+</html>
